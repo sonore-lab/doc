@@ -1,0 +1,12 @@
+
+- create empty running front project
+. create empty running back project
+. create empty database with poster table
+. create testing script to pre-fill table
+. create route [GET] /poster/:id to get poster data
+- read a static id poster from api to a struct
+- create component to display this poster
+. create route to [GET] /search/:input -> 200
+- get research input to call /search/:input
+. [GET] /search/:input searching for substring on poster and sending list of posters
+- display poster resulting of search request
