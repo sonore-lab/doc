@@ -1,3 +1,3 @@
 # doc
-![](/images/Sonore.png)
 
+:radio_button: test
