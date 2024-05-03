@@ -1,8 +1,8 @@
 # doc
 
-- (F) la page home s'initialise en allant chercher les poster sans filtre
-- (F) un bar de recherche qui simplement affiche le contenu de la bar lors dun onchange
-- (F) rendre la bar de recherche dynamic en rechargent la page avec les donne de la recherche
+- ~~(F) la page home s'initialise en allant chercher les poster sans filtre~~
+- ~~(F) un bar de recherche qui simplement affiche le contenu de la bar lors dun onchange~~
+- ~~(F) rendre la bar de recherche dynamic en rechargent la page avec les donne de la recherche~~
 - (D) Formaliser les premiere donner definissant un poster
 - (B) Creer le table SQL en consequence en modifiant le schema.sql et lappliquer a la base local
 - (B) creer informelement un dataset de poster
